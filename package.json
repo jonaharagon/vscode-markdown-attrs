@@ -1,8 +1,9 @@
 {
   "name": "markdown-attrs",
-  "displayName": "markdown-attrs",
+  "displayName": "Markdown Attribute Lists",
   "description": "Adds attribute list support to the built-in markdown preview",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "jonah",
   "keywords": [
     "markdown",
     "notebook",
